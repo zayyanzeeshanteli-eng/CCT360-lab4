@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    background-color: #eef3f7;
+    color: #243447;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: #294f6d;
+}
+
+#question {
+    font-size: 20px;
+}
+
+.buttons {
+    margin: 30px;
+}
+
+button {
+    margin: 10px;
+    padding: 12px 20px;
+    font-size: 16px;
+}
+
+#result-box {
+    width: 60%;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: white;
+    border: 3px solid #8fa8ba;
+}
+
+#result-title {
+    color: #294f6d;
+}
+
+#state-text {
+    font-size: 14px;
+    color: #5d6d7e;
+}
